@@ -66,5 +66,4 @@ For enhanced performance, a Transfer Learning approach was used:
     pip install tensorflow keras numpy matplotlib
     ```
 4.  **Execute:** Run the Jupyter Notebooks (`Q1.ipynb` and `Q1_bonus.ipynb`) sequentially to replicate the experiments and view the visualizations of optimizer performance and model training history.
-````
 
