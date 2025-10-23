@@ -64,7 +64,7 @@ For enhanced performance, a Transfer Learning approach was used:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [Your Repository URL]
+    git clone [https://github.com/MahdisSep/CNN-Optimizer-Transfer-Learning.git]
     cd CNN-Optimizer-Transfer-Learning
     ```
 2.  **Setup Data:** The dataset (e.g., `shoes.zip`) must be placed in the root directory and extracted into the expected `train` and `test` folder structure, as handled by the `ImageDataGenerator` setup in the notebooks.
