@@ -52,6 +52,13 @@ For enhanced performance, a Transfer Learning approach was used:
 │   └── dataset/                  \<-- Placeholder for dataset (e.g., 'train', 'test' folders)
 
 ````
+### showcase
+
+![images](https://github.com/MahdisSep/CNN-Optimizer-Transfer-Learning/blob/main/results/results1.png)
+![images](https://github.com/MahdisSep/CNN-Optimizer-Transfer-Learning/blob/main/results/results2.png)
+![images](https://github.com/MahdisSep/CNN-Optimizer-Transfer-Learning/blob/main/results/results3.png)
+
+-----
 
 ## ⚙️ How to Run
 
